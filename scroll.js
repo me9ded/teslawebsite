@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', () => {const sections = document.querySelectorAll('section');
 let isScrolling = false;
 
